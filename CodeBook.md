@@ -1,4 +1,4 @@
-Code Book
+##Code Book
 This code book summarizes the resulting data fields and variables in the tidy_data.txt.
 
 ###Identifiers
@@ -23,8 +23,8 @@ This code book summarizes the resulting data fields and variables in the tidy_da
 ####Activity Labels
 
 * WALKING (V1):              subject was walking during the test
-                             * WALKING_UPSTAIRS (V2):     subject was walking up a staircase during the test
-                                                          * WALKING_DOWNSTAIRS (V3):   subject was walking down a staircase during the test
-                                                                                       * SITTING (V4):              subject was sitting during the test
-                                                                                                                    * STANDING (V5):             subject was standing during the test
-                                                                                                                                                 * LAYING (V6):               subject was laying down during the test
+* WALKING_UPSTAIRS (V2):     subject was walking up a staircase during the test
+* WALKING_DOWNSTAIRS (V3):   subject was walking down a staircase during the test
+* SITTING (V4):              subject was sitting during the test
+* STANDING (V5):             subject was standing during the test
+* LAYING (V6):               subject was laying down during the test
